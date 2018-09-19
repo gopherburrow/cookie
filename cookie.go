@@ -1,4 +1,4 @@
-// Copyright 2009 to 2016 The Go Authors. Copyright 2018 The Riot Emergence Authors. All rights reserved.
+// Copyright 2009 to 2016 The Go Authors. Copyright 2018 The Gopher Burrow Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
