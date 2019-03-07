@@ -240,3 +240,9 @@ func isNotToken(r rune) bool {
 	i := int(r)
 	return i >= len(isTokenTable) || !isTokenTable[i]
 }
+
+func SetCookies(r *http.Request, c []*http.Cookie) {
+	for _, cookie := range c {
+		r.AddCookie(cookie)
+	}
+}
